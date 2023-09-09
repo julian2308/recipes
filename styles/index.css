@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0.5vw;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h5 {
@@ -10,6 +10,10 @@ h5 {
 
 h1{
     text-align: center;
+}
+button{
+    width: 10rem;
+    height: 2rem;
 }
 
 #meal {
@@ -21,7 +25,7 @@ h1{
 }
 
 .information-meal {
-  background-color: #8787879a;
+  background-color: #eeebdc;
   padding: 5px;
   border-left: 1px black solid;
   border-top: 1px black solid;
